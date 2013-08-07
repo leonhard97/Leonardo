@@ -1,8 +1,7 @@
 void setup()
 {
  Keyboard.begin();
- delay(1000);say hello keyboard
- 
+ delay(1000);
  Keyboard.println("say hello keyboard");
  
 }
